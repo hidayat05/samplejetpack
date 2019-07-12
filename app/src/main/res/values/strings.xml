@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sample Jectpack</string>
+    <string name="api_key" translatable="false">API_KEY</string>
+    <string name="search">Search</string>
+</resources>
